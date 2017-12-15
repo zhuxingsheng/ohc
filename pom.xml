@@ -71,6 +71,7 @@
         <module>ohc-core-j8</module>
         <module>ohc-benchmark</module>
         <module>ohc-jmh</module>
+        <module>ohc-test</module>
     </modules>
 
     <properties>
